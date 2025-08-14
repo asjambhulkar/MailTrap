@@ -1,2 +1,1 @@
-# MailTrap
-Mail Trap is application to analyze your email.
+# -hard-mist-4433
